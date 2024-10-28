@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">My name is Jedson and i'm a programmer student</h3>
 
 ###
